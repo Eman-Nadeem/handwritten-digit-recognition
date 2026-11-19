@@ -98,7 +98,7 @@ Run the notebooks from the project folder in this order:
 3. `train_vit.ipynb` saves `models/vit_model.pth` and `models/vit_metrics.json`
 4. `evaluate_models.ipynb` reports accuracy, macro F1, confusion matrices and the baseline
 
-`prcocess_image.ipynb` is an optional walkthrough of the preprocessing steps used by the app.
+`preprocess_image.ipynb` is an optional walkthrough of the preprocessing steps used by the app.
 
 ---
 
