@@ -160,5 +160,5 @@ The app uses the same 0–1 pixel range as training:
 ## Contact
 
 **Eman Nadeem**
-GitHub: [Eman-Nadeem](https://github.com/Eman-Nadeem/)
-LinkedIn: [Emaan-Nadeem](https://www.linkedin.com/in/Emaan-Nadeem)
+**GitHub:** [Eman-Nadeem](https://github.com/Eman-Nadeem)
+**LinkedIn:** [Eman Nadeem](https://www.linkedin.com/in/Emaan-Nadeem)
